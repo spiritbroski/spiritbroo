@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align=center><b>Hi there</b> 👋</p>
+<p align=center>I'm a software developer have an experience more than 3 years doing some programming about php, nodejs, asp.net, and python</p>
 
-<!--
-**spiritbro1/spiritbro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align=center>📫 How to reach me: <a href=https://bit.ly/telegramrino>telegram</a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Articles
+
+- [Create a resume automatically using python and mongodb](https://bit.ly/3fMr4hF)
+- [Create a Github Action that Send Everyday Covid19 Status Through Telegram Using Python](https://bit.ly/2Ci3Cue)
+
+and many more you can check my profile at [dev.to](https://bit.ly/rinodevto)
+
+
