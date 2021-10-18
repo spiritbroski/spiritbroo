@@ -3,7 +3,7 @@
 </p>
 
 ## List of Hackathon Win
-<div align="left">
+<div align="center">
   <a href="https://github.com/spiritbro1/commentbox-backend">
   <img align="center" src="https://github-readme-stats-spiritbro.vercel.app/api/pin/?username=spiritbro1&repo=commentbox-backend&theme=material-palenight" />
 </a>
